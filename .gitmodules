@@ -1,7 +1,7 @@
 [submodule "concepts"]
 	path = concepts
-	url = https://github.com/9ppl/concepts.git
+	url = https://github.com/9ppl/concepts
 
 [submodule "pathways"]
 	path = pathways
-	url = https://github.com/9ppl/pathways.git
+	url = https://github.com/9ppl/pathways
